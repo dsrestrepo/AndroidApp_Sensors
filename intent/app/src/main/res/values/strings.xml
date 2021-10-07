@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="botonuno">graficas</string>
+    <string name="Textv1">primer activity</string>
+    <string name="botondos">volver</string>
+    <string name="Textv2">primer activity</string>
+</resources>
